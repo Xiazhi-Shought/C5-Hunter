@@ -4,7 +4,7 @@
 
 集中管理 C5 商品规则、账户余额、订单与购买记录，让查询、筛选和操作更清晰。
 
-[下载最新版](https://github.com/Xiazhi-Shought/C5-Hunter/releases/latest) · [全部版本](https://github.com/Xiazhi-Shought/C5-Hunter/releases) · [问题反馈](https://github.com/Xiazhi-Shought/C5-Hunter/issues) · [作者主页](https://github.com/Xiazhi-Shought)
+[下载最新版](https://github.com/Xiazhi-Shought/C5-Hunter/releases/latest) · [全部版本](https://github.com/Xiazhi-Shought/C5-Hunter/releases) · [完整免责声明](DISCLAIMER.md) · [问题反馈](https://github.com/Xiazhi-Shought/C5-Hunter/issues) · [作者主页](https://github.com/Xiazhi-Shought)
 
 > **当前版本：v1.0.1**  
 > 本仓库用于软件介绍、成品发布和问题反馈，不公开软件源码。
@@ -81,6 +81,8 @@ C5助手不设置向开发者收集或上传用户隐私数据的功能，不会
 提交前请移除所有账号凭据与隐私数据。
 
 ## 版权与免责声明
+
+> 下载、安装或使用前，请阅读 **[完整免责声明](DISCLAIMER.md)**。以下内容仅为摘要，完整声明涵盖真实交易、自动化/API、待确认订单、账户凭据、本地数据、第三方服务、软件可用性及责任边界。
 
 - 作者：**lohick**
 - © 2026 lohick。作者原创的程序与界面内容保留相关权利。
