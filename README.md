@@ -6,7 +6,7 @@
 
 [版本下载](https://github.com/Xiazhi-Shought/C5-Hunter/releases) · [问题反馈](https://github.com/Xiazhi-Shought/C5-Hunter/issues) · [作者主页](https://github.com/Xiazhi-Shought)
 
-> **发布准备中**：目前仅建立项目介绍页，尚未上传公开下载包。后续程序及更新说明将在 Releases 发布。本仓库不公开软件源码。
+> **发布准备中**：目前仅建立项目介绍页，尚未上传公开下载包。后续程序及更新说明将在 Releases 发布。
 
 ## 功能概览
 
