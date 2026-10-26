@@ -7,7 +7,7 @@
 [下载最新版](https://github.com/Xiazhi-Shought/C5-Hunter/releases/latest) · [全部版本](https://github.com/Xiazhi-Shought/C5-Hunter/releases) · [完整免责声明](DISCLAIMER.md) · [问题反馈](https://github.com/Xiazhi-Shought/C5-Hunter/issues) · [作者主页](https://github.com/Xiazhi-Shought)
 
 > **当前版本：v1.0.1**  
-> 本仓库用于软件介绍、成品发布和问题反馈，不公开软件源码。
+> 本仓库用于软件介绍、成品发布和问题反馈。
 
 ## 功能概览
 
